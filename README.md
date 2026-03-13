@@ -76,7 +76,6 @@ I build, I deploy, I contemplate the void. A recent CS grad, full stack dev, and
 
 ## projects
 
-🌊 wavelength - real time proximity matching PWA. find your people nearby <br/>
 💪 muscle memories - full stack gym tracker with ML workout recommendations <br/>
 ⌨️ type/die - browser typing game, 60fps hand-rolled game loop, no engine <br/>
 🤖 ac(ye)demic weapon - kanye statue with CV gaze tracking that shoots you with a water gun if you look away
