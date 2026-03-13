@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Aastha. Spicy Pie is my alias I've used for gaming and other places all throughout my life. <br/>
-I build, I deploy, I contemplate the void. Recent CS grad, full stack dev, and an occasional philosopher. 
+I build, I deploy, I contemplate the void. A recent CS grad, full stack dev, and an occasional philosopher. 
 ## tech stack
 
 **languages**
