@@ -2,7 +2,8 @@
 
 <!--
 **spicy-pies/spicy-pies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm Aastha. Spicy Pie is my alias I've used for gaming and other places all throughout my life.
+I build, I deploy, I contemplate the void. CS grad, full stack dev, occasional philosopher.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
